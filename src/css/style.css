@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5 {
   }
   
   .lijeva{
-    background: url(../img/prva1.jpg) no-repeat center center;
+    background: url(src/img/prva1.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -312,7 +312,7 @@ width:48px;
 /* druga stranica*/
 
 .slika {
-    background: url(../img/jaglitch.jpg) no-repeat center center;
+    background: url(src/img/jaglitch.jpg) no-repeat center center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -392,7 +392,7 @@ width:48px;
 }
 
 .header_img{
-  background: url(../img/header.jpg) no-repeat center center;
+  background: url(src/img/header.jpg) no-repeat center center;
   height:360px;
   position: absolute;
   width:100%;
@@ -549,7 +549,7 @@ margin-top: 180px;
 
 
 .kontakt_bg{
-  background: url(../img/contact_bg.jpg) no-repeat top right;
+  background: url(src/img/contact_bg.jpg) no-repeat top right;
   top: 0; 
   right: 0;
   height:1080px;
