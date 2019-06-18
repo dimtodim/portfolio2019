@@ -1,0 +1,102 @@
+ h1 {
+    --tt-key: h1;
+    font-size: 4.353em;
+    font-family: Montserrat;
+    text-transform: uppercase;
+  }
+  
+  @keyframes h1 {
+    0%, 26.25% {
+      font-size: 1.802em;
+    }
+    90% {
+      font-size: 4.353em;
+    }
+  }
+  
+   h2 {
+    --tt-key: h2;
+    font-size: 3.998em;
+    letter-spacing: 0.1;
+  }
+  
+  @keyframes h2 {
+    0%, 26.25% {
+      font-size: 1.602em;
+    }
+    90% {
+      font-size: 3.998em;
+      letter-spacing: 0.1;
+    }
+  }
+   h3 {
+    --tt-key: h3;
+    font-size: 2.827em;
+  }
+  
+  @keyframes h3 {
+    0%, 26.25% {
+      font-size: 1.424em;
+    }
+    90% {
+      font-size: 2.827em;
+    }
+  }
+   h4 {
+    --tt-key: h4;
+    font-size: 1.999em;
+  }
+  
+  @keyframes h4 {
+    0%, 26.25% {
+      font-size: 1.266em;
+    }
+    90% {
+      font-size: 1.999em;
+    }
+  }
+   h5 {
+    --tt-key: h5;
+    font-size: 1.414em;
+  }
+  
+  @keyframes h5 {
+    0%, 26.25% {
+      font-size: 1.125em;
+    }
+    90% {
+      font-size: 1.414em;
+    }
+  }
+   h6 {
+    --tt-key: h6;
+    font-size: 0.8em;
+  }
+  
+  @keyframes h6 {
+    0%, 26.25% {
+      font-size: 0.8em;
+    }
+    90% {
+      font-size: 0.8em;
+    }
+  }
+   p {
+    --tt-key: p;
+    font-size: 1em;
+  }
+  
+  @keyframes p {
+    0%, 26.25% {
+      font-size: 1em;
+    }
+    90% {
+      font-size: 1em;
+    }
+  }
+
+  div {
+    --tt-key: div;
+    max-width: 1440px;
+    font-family: Montserrat;
+  }
